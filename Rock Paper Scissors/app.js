@@ -23,24 +23,20 @@ const showWinner = (userWin,userChoice,compChoice) => {
     if(userWin){
         userScore++;
         userScorePara.innerText = userScore;
-        console.log("You win!");
         msg.innerText = `You win! Youe ${userChoice} beats ${compChoice}`;
         msg.style.backgroundColor = "green";
     }
     else{
         compScore++;
         compScorePara.innerText = compScore;
-        console.log("Comp win");
         msg.innerText = `You lost. ${compChoice} beats Your ${userChoice}`;
         msg.style.backgroundColor = "red";
     }
 };
 
 const playGame = (userChoice) => {
-    console.log("user choice = ",userChoice);
     // Generate computer choice
     const compChoice = genCompChoice();
-    console.log("comp choice = ",compChoice);
 
     if(userChoice === compChoice){
         drawGame();
