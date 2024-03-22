@@ -14,7 +14,7 @@ const genCompChoice = () => {
 };
 
 const drawGame = () => {
-    console.log("drwa");
+    console.log("draw");
     msg.innerText = "Game was Draw. Play again.";
     msg.style.backgroundColor = "#081b31";
 };
@@ -23,7 +23,7 @@ const showWinner = (userWin,userChoice,compChoice) => {
     if(userWin){
         userScore++;
         userScorePara.innerText = userScore;
-        msg.innerText = `You win! Youe ${userChoice} beats ${compChoice}`;
+        msg.innerText = `You win! Your ${userChoice} beats ${compChoice}`;
         msg.style.backgroundColor = "green";
     }
     else{
@@ -49,7 +49,7 @@ const playGame = (userChoice) => {
         }
         else if(userChoice === "paper"){
             //rock, scissors
-            userWin = compChoice === "scissors" ? false : true;
+            userWin = compChoice === "scissor" ? false : true;
         }
         else{
             //rock,paper
