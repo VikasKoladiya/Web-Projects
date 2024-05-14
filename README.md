@@ -11,7 +11,10 @@ Welcome to the Basic Web Projects Repository! This repository is designed to hel
 [Rock-Paper-Scissors](https://neeldudhat.github.io/Web-Projects/rock-paper-scissor/)
 
 ### 2. Currency Converter
-> This project offers a seamless solution for converting currencies using the Fetch API with API. Users can effortlessly convert between different currencies with real-time exchange rates. API CREDIT : (https://github.com/fawazahmed0/exchange-api).
+> This project offers a seamless solution for converting currencies using the Fetch API with API. Users can effortlessly convert between different currencies with real-time exchange rates.
+
+**API CREDIT**
+[https://github.com/fawazahmed0/exchange-api](https://github.com/fawazahmed0/exchange-api)
 
 ###  3. Food Website
 > Welcome to our Simple Food Delivery website! Indulge your taste buds with our curated menu and enjoy the convenience of doorstep delivery. Our clean and user-friendly interface, crafted with HTML and CSS, ensures a seamless browsing experience, making ordering your favorite dishes a delightful and effortless process. Dive into a world of culinary delights with just a few clicks!
