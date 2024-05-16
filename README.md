@@ -28,7 +28,7 @@ Welcome to the Basic Web Projects Repository! This repository is designed to hel
 ###  4. Gym Website
 > Welcome to our Simple Gym Website! Our minimalistic design offers a clean and user-friendly interface, providing essential information about our gym services and facilities. With a combination of HTML for structure and CSS for styling, we've created an inviting and responsive website to help you kickstart your fitness journey.
 
-**Click Here to get the link**
+**Click Here to get the link** -->
 [Gym Website](https://vikaskoladiya.github.io/Web-Projects/GYM%20Website/)
 
 ###  5. Cricket Score
