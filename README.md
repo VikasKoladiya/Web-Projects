@@ -17,7 +17,7 @@ Welcome to the Basic Web Projects Repository! This repository is designed to hel
 [https://github.com/fawazahmed0/exchange-api](https://github.com/fawazahmed0/exchange-api)
 
 **Click Here to get the link** -->
-[Food Website](https://vikaskoladiya.github.io/Web-Projects/Currency%20Converter/)
+[Currency Converter](https://vikaskoladiya.github.io/Web-Projects/Currency%20Converter/)
 
 ###  3. Food Website
 > Welcome to our Simple Food Delivery website! Indulge your taste buds with our curated menu and enjoy the convenience of doorstep delivery. Our clean and user-friendly interface, crafted with HTML and CSS, ensures a seamless browsing experience, making ordering your favorite dishes a delightful and effortless process. Dive into a world of culinary delights with just a few clicks!
